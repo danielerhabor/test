@@ -5,9 +5,9 @@ Created on Wed Aug 23 20:17:48 2017
 @author: DANIEL
 """
 
-name = "Daniel"
+nomenclature = "Daniel"
 
-for i in len(name):
-    print(name)
+for i in len(nomenclature):
+    print(nomenclature)
 
 
